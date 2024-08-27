@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accommodation:
-  message: "Welcome to tripadvisor accommodations related local APIs"
+  message: "Welcome to tripadvisor accommodations related Local APIs"
   contactDetails:
     name: "Mr Tze"
     email: "tze@gmail.com"

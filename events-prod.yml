@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 accommodation:
-  message: "Welcome to tripadvisor events related Production APIs"
+  message: "Welcome to tripadvisor events related Docker APIs"
   contactDetails:
     name: "Ivan Ivanov"
     email: "ivan@gmail.com"
